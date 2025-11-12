@@ -2,6 +2,9 @@
 ## Mexico City to Oaxaca
 **November 11-17, 2025**
 
+📍 **[View Interactive Map - NAE Stages 96-100](https://www.google.com/maps/d/edit?mid=1zCfQQpARMXAqfcIlmfyXn0VxWPjQlYg&usp=sharing)**
+- All 5 stage routes are indicated on the map as well as major points of interest listed below.
+
 ---
 
 ## Route Overview
