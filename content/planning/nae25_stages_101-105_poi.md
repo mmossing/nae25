@@ -2,7 +2,7 @@
 ## Oaxaca to Tapachula via the Isthmus of Tehuantepec
 **November 17-23, 2025**
 
-**[View Interactive Map - Stages 101-105](YOUR_GOOGLE_MAPS_LINK_HERE)**
+**[View Interactive Map - Stages 101-105](https://www.google.com/maps/d/edit?mid=1Vn9SaQrLrpt6_cyLLBbMvMv-ym25yWw&usp=sharing)**
 
 ---
 
