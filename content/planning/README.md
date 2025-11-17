@@ -5,7 +5,9 @@ Points of Interest guides for NAE 2025 stages.
 ## Available Guides
 
 - [Stages 96-100: Mexico City to Oaxaca](nae25_stages_96-100_poi.md)
+- [Stages 101-105: Oaxaca to Oaxaca to Tapachula via the Isthmus of Tehuantepec](nae25_stages_101-105_poi.md)
 
-## Contributing
+## How-to documentation
 
-Other riders are welcome to contribute POI guides for their sections!
+- [How-to-generate-poi-guides from LLMs, RWGPS routes, & google Mymaps](how-to-generate-poi-guides.md)
+
