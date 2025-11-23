@@ -2,7 +2,7 @@
 ## Tapachula, Mexico to Antigua, Guatemala
 **November 23-28, 2025**
 
-**[View Interactive Map - NAE 2025 Stages 106-109](https://www.google.com/maps/d/edit?mid=1ymjCx-pU6x8Z5SA-ljxqc_T4XSTjFNU&usp=sharin)**
+**[View Interactive Map - NAE 2025 Stages 106-109](https://www.google.com/maps/d/edit?mid=1ymjCx-pU6x8Z5SA-ljxqc_T4XSTjFNU&usp=sharing)**
 
 ---
 
