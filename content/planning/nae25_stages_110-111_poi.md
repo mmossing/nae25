@@ -2,7 +2,7 @@
 ## Antigua, Guatemala to El Tunco, El Salvador
 **November 29 - December 1, 2025**
 
-**[View Interactive Map - NAE25 Stages 110-111](YOUR_MAP_LINK_HERE)**
+**[View Interactive Map - NAE25 Stages 110-111](https://www.google.com/maps/d/edit?mid=1daTPh4yLLDX75Vry4D714jyoZAxEVM8&usp=sharing)
 
 ---
 
