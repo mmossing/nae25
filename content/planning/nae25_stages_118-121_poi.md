@@ -13,13 +13,13 @@
 
 ### Route overview
 
-| Day | Date       | Stage | From           | To             | Distance (km) | Up (m) | Down (m) | Surface notes |
-|-----|------------|-------|----------------|----------------|--------------:|-------:|---------:|---------------|
-| 153 | Tue 9 Dec  | 118   | Granada        | La Cruz        | 124           |   881  |    688   | Some unpaved  |
-| 154 | Wed 10 Dec | 119   | La Cruz        | Playa del Coco | 96            |   683  |    921   | Some unpaved  |
-| 155 | Thu 11 Dec | 120   | Playa del Coco | Puntarenas     | 141           |   979  |    989   | Some unpaved  |
-| 156 | Fri 12 Dec | 121   | Puntarenas     | Quepos         | 139           |  1297  |   1296   | Some unpaved  |
-| 157 | Sat 13 Dec | –     | –              | Quepos (Rest)  | –             |    –   |     –    | Rest day      |
+| Day | Date       | Stage | From           | To             | Dist (km) | Up (m) | Down (m) | Surface notes |
+|-----|------------|-------|----------------|----------------|--------:|-------:|---------:|---------------|
+| 153 | Tue 9 Dec  | 118   | Granada        | La Cruz        | 124     |   881  |    688   | Some unpaved  |
+| 154 | Wed 10 Dec | 119   | La Cruz        | Playa del Coco | 96      |   683  |    921   | Some unpaved  |
+| 155 | Thu 11 Dec | 120   | Playa del Coco | Puntarenas     | 141     |   979  |    989   | Some unpaved  |
+| 156 | Fri 12 Dec | 121   | Puntarenas     | Quepos         | 139     |  1297  |   1296   | Some unpaved  |
+| 157 | Sat 13 Dec | –     | –              | Quepos (Rest)  | –       |    –   |     –    | Rest day      |
 
 ---
 
