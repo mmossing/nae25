@@ -18,6 +18,8 @@ Points of Interest guides for NAE 2025 stages by riding block (rest day to rest 
 	- [Stages 118-121:  Map](https://www.google.com/maps/d/edit?mid=1pzJOE0Bpw6Lei7VgBNUjylgRbVSKUJ4&usp=sharing)
 - [Stages 122-124: Granada, Quepos, Costa Rica to Volcan, Panama](nae25_stages_122-124_poi.md)
 	- [Stages 122-124: Map](https://www.google.com/maps/d/edit?mid=1vvyKpTbGy7uyYMnmRllcmxpDJQUERfY&usp=sharing)
+- [Stages 125-128: Volcan, Panama to Panama City](nae25_stages_125-128_poi.md)
+	- [Stages 122-128: Map](https://www.google.com/maps/d/edit?mid=1gNuJpq3O-w4jBY3hfge0Pjv4CEjaB6o&usp=sharing)
 
 ## How-to documentation
 
