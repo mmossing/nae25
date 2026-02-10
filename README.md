@@ -1,4 +1,4 @@
-# North America Extreme 2025 (NAE25)
+# North American Epic 2025 (NAE25)
 
 A Jupyter Book documenting a 17,000+ km bicycle journey from Tuktoyaktuk, Canada to Panama City, Panama.
 
