@@ -50,10 +50,15 @@ Copy `.env.example` to `.env` and add your credentials:
 cp .env.example .env
 ```
 
-Required API keys:
-- `STRAVA_CLIENT_ID`
-- `STRAVA_CLIENT_SECRET`
-- `STRAVA_REFRESH_TOKEN`
+Required:
+- `STRAVA_CLIENT_ID` and `STRAVA_CLIENT_SECRET` — from https://www.strava.com/settings/api
+
+OAuth token (`~/.strava_mcp_token.json`) is shared with the Strava MCP server and refreshed
+automatically. If the file doesn't exist yet, run the one-time auth flow:
+```bash
+cd ~/projects/experiments/strava_routes && python server.py --auth
+```
+No `STRAVA_REFRESH_TOKEN` env var is needed.
 
 ### 3. Build the Book
 
