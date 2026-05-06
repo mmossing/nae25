@@ -1,4 +1,4 @@
-# North America Extreme 2025
+# North America Epic 2025
 
 ```{figure} ../assets/images/cover.jpg
 :name: cover-image
@@ -17,35 +17,12 @@ From the Arctic shores of **Tuktoyaktuk, Canada** to the tropical coast of **Pan
 **Elevation Gain:** ~160,000 m  
 **Riding Days:** 128 stages  
 **Rest Days:** 33  
-**Countries:** Canada 🇨🇦, USA 🇺🇸, Mexico 🇲🇽, Guatemala 🇬🇹, El Salvador 🇸🇻, Honduras 🇭🇳, Nicaragua 🇳🇮, Costa Rica 🇨🇷, Panama 🇵🇦
+**Countries:**  Mexico 🇲🇽, Guatemala 🇬🇹, El Salvador 🇸🇻, Honduras 🇭🇳, Nicaragua 🇳🇮, Costa Rica 🇨🇷, Panama 🇵🇦
 
 ## Route Highlights
 
 The route traverses some of the most spectacular and diverse landscapes in North America:
 
-### Arctic Canada & Yukon
-- Dempster Highway to the Arctic Ocean
-- Midnight sun above the Arctic Circle
-- Remote wilderness and gravel roads
-- Tombstone Territorial Park
-
-### Canadian & US Rockies
-- Jasper and Banff National Parks
-- Columbia Icefields
-- Glacier National Park
-- Grand Teton and Yellowstone
-
-### American Southwest
-- Red rock country of Utah
-- Monument Valley
-- Grand Canyon
-- Sonoran Desert
-
-### Baja California
-- Pacific coast of Mexico
-- Desert landscapes
-- Sea of Cortez
-- Cabo San Lucas
 
 ### Central & Southern Mexico
 - Colonial cities

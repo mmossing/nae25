@@ -1,9 +1,12 @@
-# North American Epic 2025 (NAE25)
+# North American Epic 2025 Sections 9-11 (NAE25)
 
-A Jupyter Book documenting a 17,000+ km bicycle journey from Tuktoyaktuk, Canada to Panama City, Panama.
+A Jupyter Book documenting a 17,000+ km bicycle journey from Puerto Vallarta to Panama City, Panama.
+
+Stages 83-128 (46 stages)
+Sections 9-11 (Central Mexico, Southern Mexico, Central America)
 
 **Journey:** July 10 - December 21, 2025  
-**Stages:** 128 riding days + 33 rest days  
+**Stages:** 46 riding days + 12 rest days  
 **Tour Operator:** TDA Global Cycling
 
 ## Project Structure
@@ -75,6 +78,20 @@ python scripts/agents/daily_processor.py
 python scripts/processing/strava_sync.py --date 2025-10-29
 python scripts/processing/generate_stage.py --stage 86
 ```
+
+## Strava Tutorial Workflow
+
+For the rider-facing Strava workflow, use:
+
+- `notebooks/01_get_strava_ride_data.ipynb` to fetch activity JSON and stream JSON
+- `notebooks/02_maps_and_elevation_from_streams.ipynb` to turn saved stream JSON into maps and elevation profiles
+- `scripts/processing/strava_client.py` as the underlying script that reads credentials from `.env` without printing tokens
+
+Default export locations:
+
+- `data/raw/strava/activities/`
+- `data/raw/strava/streams/`
+- `assets/gpx/`
 
 ## Features
 
