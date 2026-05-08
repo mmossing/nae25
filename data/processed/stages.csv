@@ -1,0 +1,47 @@
+stage,date,block_id,activity_id,distance_km,elevation_m,moving_time_s,avg_hr,suffer_score,depart,arrive,source
+83,2025-10-25,block_083_085,16256625922,97.42,1799,26668,141.2,595.0,Puerto Vallarta,Mascota,strava+itinerary
+84,2025-10-26,block_083_085,16267130120,71.64,1487,20382,132.5,302.0,Mascota,Ameca,strava+itinerary
+85,2025-10-27,block_083_085,16275691630,128.93,821,25156,129.0,269.0,Ameca,Ajijic,strava+itinerary
+86,2025-10-29,block_086_090,16295848814,58.89,707,15240,131.4,194.0,Ajijic,Ocotlan,strava+itinerary
+87,2025-10-30,block_086_090,16305848554,95.01,930,19800,127.8,200.0,Ocotlan,Arandas,strava+itinerary
+88,2025-10-31,block_086_090,16314509152,86.73,535,15564,122.2,115.0,Arandas,San Francisco del Rincon,strava+itinerary
+89,2025-11-01,block_086_090,16332348201,96.96,652,17703,124.6,147.0,San Francisco del Rincon,Guanajuato,strava+itinerary
+90,2025-11-03,block_086_090,16345155612,87.68,951,18821,124.5,151.0,Guanajuato,San Miguel de Allende,strava+itinerary
+91,2025-11-05,block_091_095,16367548068,133.15,1094,23890,127.6,253.0,San Miguel de Allende,Tarandacuao,strava+itinerary
+92,2025-11-06,block_091_095,16376666156,77.44,852,15889,120.7,107.0,Tarandacuao,San Felipe Alzati,strava+itinerary
+93,2025-11-07,block_091_095,16386910944,76.91,1367,19642,120.7,141.0,San Felipe Alzati,Valle del Bravo,strava+itinerary
+94,2025-11-08,block_091_095,16397401445,55.42,1447,18230,128.2,198.0,Valle del Bravo,Santiago Tianguistenco,strava+itinerary
+95,2025-11-09,block_091_095,16408982126,79.72,1013,22030,118.3,147.0,Santiago Tianguistenco,Mexico City,strava+itinerary
+96,2025-11-12,block_096_100,16441224520,67.46,1268,18066,132.0,265.0,Mexico City,Cholula,strava+itinerary
+97,2025-11-13,block_096_100,16450653564,133.35,1468,27706,128.1,306.0,Cholula,Ixcaquixtla,strava+itinerary
+98,2025-11-14,block_096_100,16458473591,99.41,1296,21242,122.3,170.0,Ixcaquixtla,Huajuapan de Leon,strava+itinerary
+99,2025-11-15,block_096_100,16468853901,90.34,1641,21402,123.1,165.0,Huajuapan de Leon,Asunción Nochixtlán,strava+itinerary
+100,2025-11-16,block_096_100,16480899359,104.71,1228,20882,121.0,155.0,Asunción Nochixtlán,Oaxaca,strava+itinerary
+101,2025-11-18,block_101_105,16500778418,132.04,1355,25297,126.0,246.0,Oaxaca,El Camaron Yautepec,strava+itinerary
+102,2025-11-19,block_101_105,16509301650,143.45,1413,27063,125.7,257.0,El Camaron Yautepec,Juchitan de Zaragoza,strava+itinerary
+103,2025-11-20,block_101_105,16517001721,104.92,365,16301,123.3,108.0,Juchitan de Zaragoza,San Pedro Tapanatepec,strava+itinerary
+104,2025-11-21,block_101_105,16528097787,146.3,674,22954,128.2,225.0,San Pedro Tapanatepec,Pijijiapan,strava+itinerary
+105,2025-11-22,block_101_105,16537282360,148.76,827,24854,112.1,93.0,Pijijiapan,Tapachula,strava+itinerary
+106,2025-11-24,block_106_109,16555023086,79.51,852,16182,111.8,67.0,Tapachula,Coatepeque,strava+itinerary
+107,2025-11-25,block_106_109,16566351394,57.7,1895,21486,127.7,228.0,Coatepeque,Quetzaltenango,strava+itinerary
+108,2025-11-26,block_106_109,16578053781,90.04,1614,21010,120.8,177.0,Quetzaltenango,Santiago Atitlan,strava+itinerary
+109,2025-11-27,block_106_109,16585013238,49.08,1205,15230,119.0,86.0,Santiago Atitlan,Antigua,strava+itinerary
+110,2025-11-29,block_110_111,16605395739,143.51,860,22134,121.6,160.0,Antigua,Ciudad Pedro de Alvarado,strava+itinerary
+111,2025-11-30,block_110_111,16614174204,119.3,1094,23067,118.3,128.0,Ciudad Pedro de Alvarado,El Tunco,strava+itinerary
+112,2025-12-02,block_112_117,16631641573,117.89,610,20838,113.5,82.0,El Tunco,Usulutan,strava+itinerary
+113,2025-12-03,block_112_117,16643074994,89.06,930,19238,109.8,69.0,Usulutan,La Union,strava+itinerary
+114,2025-12-04,block_112_117,16651191955,10.71,126,3351,,,La Union,Amapala,strava+itinerary
+115,2025-12-05,block_112_117,16661067622,117.08,638,21104,,,Puerto Potosi,Leon,strava+itinerary
+116,2025-12-06,block_112_117,16668666588,98.43,729,18023,114.5,78.0,Leon,Pochomil,strava+itinerary
+117,2025-12-07,block_112_117,16678949886,93.88,1192,18128,123.4,144.0,Pochomil,Granada,strava+itinerary
+118,2025-12-09,block_118_121,16697620435,122.67,792,21607,124.6,177.0,Granada,La Cruz,strava+itinerary
+119,2025-12-10,block_118_121,16706153086,96.03,684,16338,121.7,114.0,La Cruz,Playa del Coco,strava+itinerary
+120,2025-12-11,block_118_121,16715028601,57.63,298,9205,119.3,58.0,Playa del Coco,Puntarenas,strava+itinerary
+121,2025-12-12,block_118_121,16725011681,138.29,900,23112,125.1,201.0,Puntarenas,Quepos,strava+itinerary
+122,2025-12-14,block_122_124,16743698697,107.27,684,17337,130.8,215.0,Quepos,Palmar Norte,strava+itinerary
+123,2025-12-15,block_122_124,16751181345,81.14,1738,18808,129.2,219.0,Palmar Norte,San Vito,strava+itinerary
+124,2025-12-16,block_122_124,16762565309,58.46,1512,15995,122.7,134.0,San Vito,Volcan,strava+itinerary
+125,2025-12-18,block_125_128,16784049196,146.81,828,20742,121.7,164.0,Volcan,Playa Las Lajas,strava+itinerary
+126,2025-12-19,block_125_128,16787533324,132.59,1671,25002,125.9,236.0,Playa Las Lajas,Santiago,strava+itinerary
+127,2025-12-20,block_125_128,16795454768,94.76,351,14489,125.8,124.0,Santiago,Penonome,strava+itinerary
+128,2025-12-21,block_125_128,16804630929,101.97,667,16766,123.3,130.0,Penonome,Panama City,strava+itinerary

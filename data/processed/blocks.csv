@@ -1,0 +1,12 @@
+block_id,stage_low,stage_high,date_start,date_end,route_label,source
+block_083_085,83,85,2025-10-25,2025-10-27,Puerto Vallarta → Ajijic,itinerary_csv
+block_086_090,86,90,2025-10-29,2025-11-03,Ajijic → San Miguel de Allende,itinerary_csv
+block_091_095,91,95,2025-11-05,2025-11-09,San Miguel de Allende → Mexico City,itinerary_csv
+block_096_100,96,100,2025-11-12,2025-11-16,Mexico City to Oaxaca,planning_doc
+block_101_105,101,105,2025-11-18,2025-11-22,Oaxaca to Tapachula via the Isthmus of Tehuantepec,planning_doc
+block_106_109,106,109,2025-11-24,2025-11-27,"Tapachula, Mexico to Antigua, Guatemala",planning_doc
+block_110_111,110,111,2025-11-29,2025-11-30,"Antigua, Guatemala to El Tunco, El Salvador",planning_doc
+block_112_117,112,117,2025-12-02,2025-12-07,"El Tunco, El Salvador to Granada, Nicaragua",planning_doc
+block_118_121,118,121,2025-12-09,2025-12-12,Stages 118–121: Granada → Quepos (Nicaragua → Costa Rica Pacific Coast),planning_doc
+block_122_124,122,124,2025-12-14,2025-12-16,Quepos to Volcan (Costa Rica to Panama),planning_doc
+block_125_128,125,128,2025-12-18,2025-12-21,Stages 125-128: Volcán to Panama City,planning_doc

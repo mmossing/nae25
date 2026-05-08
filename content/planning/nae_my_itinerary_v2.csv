@@ -1,0 +1,63 @@
+Day,Weekday,Date,Stage,Depart,Arrive,Distance (km),Up (m),Down (m),Unpaved
+104,Tue,2025-10-21,Travel,,Flight - MSY to Puerto Vallarta,,,,
+105,Wed,2025-10-22,Prepare,,Meet the crew - Puerto Vallarta,,,
+106,Thu,2025-10-23,Rest,,Rest Day - Puerto Vallarta,,,,
+107,Fri,2025-10-24,Rest,,Rest Day - Puerto Vallarta,,,,
+108,Sat,2025-10-25,83,Puerto Vallarta,Mascota,103,2474,1247,1
+109,Sun,2025-10-26,84,Mascota,Ameca,123,2113,2112,1
+110,Mon,2025-10-27,85,Ameca,Ajijic,130,1016,722,1
+111,Tue,2025-10-28,Rest,,Rest Day - Ajijic,,,,
+112,Wed,2025-10-29,86,Ajijic,Ocotlan,64,694,699,1
+113,Thu,2025-10-30,87,Ocotlan,Arandas,96,1013,478,1
+114,Fri,2025-10-31,88,Arandas,San Francisco del Rincon,82,572,877,1
+115,Sat,2025-11-01,89,San Francisco del Rincon,Guanajuato,99,725,511,1
+116,Sun,2025-11-02,Rest,,Rest Day - Guanajuato,,,,
+117,Mon,2025-11-03,90,Guanajuato,San Miguel de Allende,89,1121,1047,1
+118,Tue,2025-11-04,Rest,,Rest Day - San Miguel,,,,
+119,Wed,2025-11-05,91,San Miguel de Allende,Tarandacuao,133,1166,1274,1
+120,Thu,2025-11-06,92,Tarandacuao,San Felipe Alzati,81,969,988,1
+121,Fri,2025-11-07,93,San Felipe Alzati,Valle del Bravo,78,1459,1551,1
+122,Sat,2025-11-08,94,Valle del Bravo,Santiago Tianguistenco,115,1947,1113,1
+123,Sun,2025-11-09,95,Santiago Tianguistenco,Mexico City,79,1123,1526,1
+124,Mon,2025-11-10,Rest,,Rest Day - Mexico City,,,,
+125,Tue,2025-11-11,Rest,,Rest Day - Mexico City,,,,
+126,Wed,2025-11-12,96,Mexico City,Cholula,66,1298,1631,40
+127,Thu,2025-11-13,97,Cholula,Ixcaquixtla,133,1531,1792,1
+128,Fri,2025-11-14,98,Ixcaquixtla,Huajuapan de Leon,100,1356,1636,1
+129,Sat,2025-11-15,99,Huajuapan de Leon,Asunción Nochixtlán,94,1715,1249,1
+130,Sun,2025-11-16,100,Asunción Nochixtlán,Oaxaca,106,1512,2015,1
+131,Mon,2025-11-17,Rest,,Rest Day - Oaxaca,,,,
+132,Tue,2025-11-18,101,Oaxaca,El Camaron Yautepec,131,1599,2476,1
+133,Wed,2025-11-19,102,El Camaron Yautepec,Juchitan de Zaragoza,144,1594,2261,1
+134,Thu,2025-11-20,103,Juchitan de Zaragoza,San Pedro Tapanatepec,105,469,435,1
+135,Fri,2025-11-21,104,San Pedro Tapanatepec,Pijijiapan,147,808,821,1
+136,Sat,2025-11-22,105,Pijijiapan,Tapachula,147,1050,978,1
+137,Sun,2025-11-23,Rest,,Rest Day - Tapachula,,,,
+138,Mon,2025-11-24,106,Tapachula,Coatepeque,82,971,622,1
+139,Tue,2025-11-25,107,Coatepeque,Quetzaltenango,63,2493,618,1
+140,Wed,2025-11-26,108,Quetzaltenango,Santiago Atitlan,103,2250,3022,1
+141,Thu,2025-11-27,109,Santiago Atitlan,Antigua,79,1763,1799,5
+142,Fri,2025-11-28,Rest,,Rest Day - Antigua,,,,
+143,Sat,2025-11-29,110,Antigua,Ciudad Pedro de Alvarado,142,992,2474,1
+144,Sun,2025-11-30,111,Ciudad Pedro de Alvarado,El Tunco,120,1293,1328,1
+145,Mon,2025-12-01,Rest,,Rest Day - EL Tunco,,,,
+146,Tue,2025-12-02,112,El Tunco,Usulutan,119,784,708,1
+147,Wed,2025-12-03,113,Usulutan,La Union,90,1047,1069,1
+148,Thu,2025-12-04,114,La Union,Amapala,18,246,298,1
+149,Fri,2025-12-05,115,Puerto Potosi,Leon,118,802,713,20
+150,Sat,2025-12-06,116,Leon,Pochomil,99,739,834,1
+151,Sun,2025-12-07,117,Pochomil,Granada,95,1266,1211,5
+152,Mon,2025-12-08,Rest,,Rest Day - Granada,,,,
+153,Tue,2025-12-09,118,Granada,La Cruz,124,881,688,1
+154,Wed,2025-12-10,119,La Cruz,Playa del Coco,96,683,921,1
+155,Thu,2025-12-11,120,Playa del Coco,Puntarenas,141,979,989,1
+156,Fri,2025-12-12,121,Puntarenas,Quepos,139,1297,1296,1
+157,Sat,2025-12-13,Rest,,Rest Day - Quepos,,,,
+158,Sun,2025-12-14,122,Quepos,Palmar Norte,106,1007,987,1
+159,Mon,2025-12-15,123,Palmar Norte,San Vito,82,1964,995,1
+160,Tue,2025-12-16,124,San Vito,Volcan,53,1550,1187,1
+161,Wed,2025-12-17,Rest,,Rest Day - Volcan,,,,
+162,Thu,2025-12-18,125,Volcan,Playa Las Lajas,147,859,2216,1
+163,Fri,2025-12-19,126,Playa Las Lajas,Santiago,133,1778,1701,1
+164,Sat,2025-12-20,127,Santiago,Penonome,95,405,410,1
+165,Sun,2025-12-21,128,Penonome,Panama City,102,610,683,1
