@@ -17,7 +17,9 @@ html:
 sphinx:
   config:
     html_show_copyright: false
-  # Suppress warnings for planning files not in the TOC
-  exclude_patterns:
-    - "content/planning/**"
-    - "README.md"
+    html_extra_path: ["content/maps"]
+    exclude_patterns:
+      - "README.md"
+      - "content/planning/README.md"
+      - "content/planning/how-to-generate-poi-guides.md"
+      - "content/planning/nae25_stages_106-109_road_conditions_safety.md"

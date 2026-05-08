@@ -25,3 +25,16 @@ parts:
   - caption: Panama
     chapters:
       - file: content/sections/block_125_128
+  - caption: Appendix — Strava Rides
+    chapters:
+      - file: content/strava_rides
+  - caption: Appendix — Route Notes
+    chapters:
+      - file: content/planning/nae25_stages_96-100_poi
+      - file: content/planning/nae25_stages_101-105_poi
+      - file: content/planning/nae25_stages_106-109_poi
+      - file: content/planning/nae25_stages_110-111_poi
+      - file: content/planning/nae25_stages_112-117_poi
+      - file: content/planning/nae25_stages_118-121_poi
+      - file: content/planning/nae25_stages_122-124_poi
+      - file: content/planning/nae25_stages_125-128_poi

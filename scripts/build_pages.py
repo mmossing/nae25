@@ -91,7 +91,7 @@ def _block_page(block: dict, stages: list[dict]) -> str:
 
 ```{{raw}} html
 <iframe
-  src="../maps/{bid}_map.html"
+  src="../../{bid}_map.html"
   width="100%" height="520px"
   frameborder="0" style="border:none; border-radius:6px;"
 ></iframe>
@@ -167,6 +167,31 @@ Map tiles © [OpenTopoMap](https://opentopomap.org) (CC-BY-SA).
 """
 
 
+def _strava_page(blocks: list[dict], stages_by_block: dict) -> str:
+    sections = []
+    for block in blocks:
+        bid    = block["block_id"]
+        stages = [s for s in stages_by_block.get(bid, []) if s.get("activity_id")]
+        if not stages:
+            continue
+        title  = _clean_label(block["route_label"])
+        embeds = []
+        for s in stages:
+            aid = s["activity_id"]
+            d   = date.fromisoformat(s["date"]).strftime("%-d %b")
+            embeds.append(
+                f"**Stage {s['stage']} · {d} · {s['depart']} → {s['arrive']}**\n\n"
+                f"```{{raw}} html\n"
+                f'<iframe allowtransparency="true" frameBorder="0" scrolling="no"'
+                f' src="https://www.strava.com/activities/{aid}/embed/{aid}"'
+                f' width="100%" height="405"></iframe>\n'
+                f"```"
+            )
+        sections.append(f"## {title}\n\n" + "\n\n".join(embeds))
+
+    return "# Strava Rides\n\n" + "\n\n".join(sections) + "\n"
+
+
 def main() -> None:
     SECTIONS_DIR.mkdir(parents=True, exist_ok=True)
     blocks          = _load_blocks()
@@ -184,6 +209,12 @@ def main() -> None:
     out   = CONTENT_DIR / "intro.md"
     out.write_text(intro)
     print(f"  {out}")
+
+    strava = _strava_page(blocks, stages_by_block)
+    out    = CONTENT_DIR / "strava_rides.md"
+    out.write_text(strava)
+    print(f"  {out}")
+
     print("Done.")
 
 
