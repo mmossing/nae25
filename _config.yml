@@ -1,0 +1,23 @@
+title: North American Epic 2025
+author: Mike Mossing
+
+execute:
+  execute_notebooks: "off"
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - smartquotes
+
+html:
+  use_issues_button: false
+  use_repository_button: false
+  extra_footer: "GPS data © Strava · Map tiles © OpenTopoMap (CC-BY-SA)"
+
+sphinx:
+  config:
+    html_show_copyright: false
+  # Suppress warnings for planning files not in the TOC
+  exclude_patterns:
+    - "content/planning/**"
+    - "README.md"

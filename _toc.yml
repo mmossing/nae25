@@ -1,0 +1,27 @@
+format: jb-book
+root: content/index
+parts:
+  - caption: Introduction
+    chapters:
+      - file: content/intro
+  - caption: Mexico
+    chapters:
+      - file: content/sections/block_083_085
+      - file: content/sections/block_086_090
+      - file: content/sections/block_091_095
+      - file: content/sections/block_096_100
+      - file: content/sections/block_101_105
+  - caption: Guatemala & El Salvador
+    chapters:
+      - file: content/sections/block_106_109
+      - file: content/sections/block_110_111
+  - caption: Nicaragua
+    chapters:
+      - file: content/sections/block_112_117
+  - caption: Costa Rica
+    chapters:
+      - file: content/sections/block_118_121
+      - file: content/sections/block_122_124
+  - caption: Panama
+    chapters:
+      - file: content/sections/block_125_128
