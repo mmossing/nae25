@@ -12,12 +12,16 @@ parse:
 html:
   use_issues_button: false
   use_repository_button: false
-  extra_footer: "GPS data © Strava · Map tiles © OpenTopoMap (CC-BY-SA)"
+  extra_footer: |
+    GPS data © Strava · Map tiles © OpenTopoMap (CC-BY-SA)
+    <script src="https://strava-embeds.com/embed.js"></script>
 
 sphinx:
   config:
     html_show_copyright: false
     html_extra_path: ["content/maps"]
+    html_css_files:
+      - custom.css
     exclude_patterns:
       - "README.md"
       - "content/planning/README.md"

@@ -1,0 +1,6 @@
+/* Make Strava embeds responsive within the book content column */
+iframe[src*="strava"],
+.strava-embed-placeholder iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+}
