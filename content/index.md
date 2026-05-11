@@ -1,73 +1,12 @@
-# North America Epic 2025
+# North American Epic 2025
 
-```{figure} ../assets/images/cover.jpg
-:name: cover-image
-:width: 100%
-:align: center
+**Puerto Vallarta → Panama City · Stages 83–128 · 46 riding days**
 
-From Arctic to Tropics: 17,000 km by Bicycle
-```
+A bicycle journey through Mexico and Central America, ridden as a sectional participant
+in the [TDA Global Cycling North American Epic](https://www.tdaglobalcycling.com/north-american-epic) —
+a 128-stage, 17,000 km tour from the Canadian Arctic to Panama.
 
-## The Journey
+This book covers the southern leg: seven countries, eleven blocks of consecutive riding days,
+and roughly 4,600 km of Pacific coast, highland passes, and tropical lowlands.
 
-From the Arctic shores of **Tuktoyaktuk, Canada** to the tropical coast of **Panama City, Panama**, this is the story of riding 17,000+ kilometers through eleven countries on two wheels.
-
-**Duration:** July 10 - December 21, 2025 (165 days)  
-**Distance:** ~17,000 km  
-**Elevation Gain:** ~160,000 m  
-**Riding Days:** 128 stages  
-**Rest Days:** 33  
-**Countries:**  Mexico 🇲🇽, Guatemala 🇬🇹, El Salvador 🇸🇻, Honduras 🇭🇳, Nicaragua 🇳🇮, Costa Rica 🇨🇷, Panama 🇵🇦
-
-## Route Highlights
-
-The route traverses some of the most spectacular and diverse landscapes in North America:
-
-
-### Central & Southern Mexico
-- Colonial cities
-- Mountain highlands
-- Pacific coastal route
-- Mexico City
-
-### Central America
-- Lake Atitlán, Guatemala
-- Pacific coast through El Salvador, Honduras, Nicaragua
-- Costa Rican cloud forests
-- Panama Canal
-
-## Navigation
-
-Use the sidebar to explore:
-- **By Section**: Geographic regions
-- **By Stage**: Individual daily rides
-- **Maps**: Interactive route visualization
-- **Analysis**: Statistics and insights
-
-## Live Updates
-
-This book is being built in real-time during the journey. New stages are added as they're completed, with photos, maps, and narratives.
-
-**Current Status:** Stage 86 completed (October 29, 2025)  
-**Location:** Ocotlán, Jalisco, Mexico  
-**Distance Completed:** ~9,500 km
-
----
-
-```{admonition} About This Project
-:class: note
-
-This digital travelogue is built using [Jupyter Book](https://jupyterbook.org), combining narrative writing, data analysis, and interactive visualizations. All ride data comes from Strava, maps are generated from GPX files, and the book is automatically deployed via GitHub Pages.
-
-The project builds on lessons learned from [South America by Bicycle (SAE24)](link), with improved automation and real-time updates.
-```
-
-## Start Reading
-
-Begin your journey:
-- [Introduction →](introduction.md)
-- [Route Overview →](route-overview.md)
-- [Stage 1: Tuktoyaktuk to Inuvik →](stages/stage-001.md)
-
-Or jump to the current location:
-- [Stage 86: Ajijic to Ocotlán →](stages/stage-086.md)
+Use the sidebar to navigate by country and block.
